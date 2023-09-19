@@ -20,12 +20,12 @@ avatar: ![_config.yml]({{ site.baseurl }}/images/posts/01.jpg)
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: inchiyeh.ir@gmail.com
   facebook:
   flickr:
   github: inchiyeh/inchiyeh.github.io
-  instagram:
-  linkedin:
+  instagram: inchiyeh.ir
+  linkedin: inchiyeh
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: inchiyeh
