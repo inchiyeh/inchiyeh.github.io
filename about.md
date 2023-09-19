@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+** Inchiyeh.ir/en/ **
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Inchieh is both an idea and a learning challenge for us (and of course for anyone who wants to be with us). The purpose of the idea can be seen from its name. You are supposed to say what each picture is.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[inchiyeh.ir@gmail.com](mailto:inchiyeh.ir@gmail.com)
