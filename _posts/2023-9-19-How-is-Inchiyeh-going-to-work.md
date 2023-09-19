@@ -3,7 +3,6 @@ layout: post
 title: How is Onchiyeh going to work?
 ---
 
-# How is Onchiyeh going to work?
 You get the idea from the name. You are going to send a picture of anything that you could not identify and understand what it is so that Inchiyeh will tell you what it is. So far, the general and hidden idea behind Inchie.ir has been revealed. From a technical point of view, it can be said that we are developing a model for image classification. We will develop and train a model that can classify the image sent by the users into different classes.
 
 ![_config.yml]({{ site.baseurl }}/images/posts/02.jpg)

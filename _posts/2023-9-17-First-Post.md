@@ -3,7 +3,6 @@ layout: post
 title: First Post!
 ---
 
-# First Post!
 I think we all agree that starting anything is the hardest part of it. Why? Because it has its own difficulties. You don't even know where to start. Sometimes you don't even know if you should start or not. After about three or four years of thinking and many discussions, we finally decided to start...
 
 ![_config.yml]({{ site.baseurl }}/images/posts/01.jpg)
