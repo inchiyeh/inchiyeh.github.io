@@ -47,5 +47,5 @@ A set of statistical and mathematical information is included in these categorie
 Another simple set for small tasks, especially Binary Classification, is data that is characterized by a value of Zero and One or False and True or some thing like them. For a better understanding, the example of Male and Female members of society can be used as an example. In the meantime, you can use a value of 1 for being a woman and 0 for being a man.
 
 
-## ** *** Labeled and UnLabeled *** **
+## Labeled and UnLabeled
 From another point of view, information can be categorized based on whether or not they have a specific purpose or label. Based on this, if a special name is considered for each sample of the data sets, or it is placed in a special folder or directory to be separated from other data, or in numerical cases, a separate column is considered to display the output of that sample, will be recognized as labeled datasets. Otherwise, they will be unlabeled. In some cases, we can also see consolidated information that solves this problem with methods such as using labels for training and without labels for testing.
