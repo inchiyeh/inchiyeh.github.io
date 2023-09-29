@@ -5,7 +5,7 @@ title: What have we done up to now?
 
 Until today, we have passed the most difficult step, the beginning. Now we are moving forward with the plans we made before. Accordingly, we needed a series of tools, including a blog, task management, social pages, GitHub, and functional scripts, which we will discuss further.
 
-![_config.yml]({{ site.baseurl }}/images/posts/03.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/2023-9-20-What-have-we-done-up-to-now-03.jpg)
 
 
 * Blog
