@@ -5,7 +5,7 @@ title: What kind of data is needed for Inchiyeh?
 
 In order to optimize and develop the desired model for Inchiyeh, we must find the proper dataset. So first, we need to know exactly what features the database we need has and what its structure should be. We make these features based on the performance we are considering.
 
-![_config.yml]({{ site.baseurl }}/images/posts/2023-9-29-What-kind-of-data-is-needed-for-Inchiyeh-01.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/2023-9-29-What-kind-of-data-is-needed-for-Inchiyeh-01.png)
 
 What we expect from Inchiyeh is that every image given to it, it will give the appropriate classes for that image. With this definition, you can understand that we are facing an image classification problem and choose the dataset accordingly. Suitable datasets for classification are datasets where the label or target of each image is clear. It means that the educational data of his class should be clear. One of the most important and famous datasets for training the image classband model is the CFAR-10 dataset.
 
